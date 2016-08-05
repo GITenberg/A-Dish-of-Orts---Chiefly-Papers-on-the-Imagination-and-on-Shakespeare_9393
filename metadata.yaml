@@ -1,0 +1,32 @@
+_repo: A-Dish-of-Orts---Chiefly-Papers-on-the-Imagination-and-on-Shakespeare_9393
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9393'
+language: en
+publication_note: '1893'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Criticism and interpretation'
+- !lcsh 'Literature -- History and criticism'
+- GITenberg
+tableOfContents: 'The imagination: its functions and its culture -- A sketch of individual
+  development -- St. George''s Day, 1564 -- The art of Skakspere, as revealed by himself
+  -- The elder Hamlet -- On Polish -- Browning''s "Christmas Eve" -- "Essays on some
+  of the forms of literature" -- "The history and heroes of medicine" -- Wordsworth''s
+  poetry -- Shelley -- A sermon -- True Christian ministering -- The fantastic imagination.'
+title: 'A Dish of Orts : Chiefly Papers on the Imagination, and on Shakespeare'
+url: http://www.gutenberg.org/ebooks/9393
